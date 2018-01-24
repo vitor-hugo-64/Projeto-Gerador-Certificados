@@ -1,0 +1,9 @@
+body { text-align:center; background:linear-gradient(green, white);  background-repeat: no-repeat;
+    background-attachment: fixed; color:black; /*padding:60px*/; margin:0; }
+h1,h2,.wrap {/* text-shadow:#ff6633 1px 1px 1px; */}
+img { border:1px solid black; box-shadow: 5px 5px 5px black; }
+a { color:#7AA8BB; }
+.wrap { width:900px; background-color:rgba(255, 255, 255, 0.8); border-radius:10px; padding:50px; margin:0 auto; }
+.items { padding:10px 0 0 0; }
+.item { display:inline; margin:10px; }
+input { padding:10px 15px; font-size:22px; font-weight:bold; text-align:center; }
